@@ -1,0 +1,9 @@
+{
+  "contest": 111,
+  "handle": "joshie",
+  "address": "0x2f1c5628e931fc75cf097072f61b9dc72d1d827f",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2022-04-xtribe-findings/issues/8"
+}
