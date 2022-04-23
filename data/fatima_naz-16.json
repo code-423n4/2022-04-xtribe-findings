@@ -1,0 +1,9 @@
+{
+  "contest": 111,
+  "handle": "fatima_naz",
+  "address": "0x63A62BDCA68DCA4B98385De493f73C7393b14F6b",
+  "risk": "2",
+  "title": "Not checking proper conditions in assert as mentioned in comment",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2022-04-xtribe-findings/issues/16"
+}
