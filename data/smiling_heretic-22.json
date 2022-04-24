@@ -1,0 +1,9 @@
+{
+  "contest": 111,
+  "handle": "smiling_heretic",
+  "address": "0xe180d626a4229c1F1C4cb0278cE071dBcC172AdB",
+  "risk": "2",
+  "title": "In ERC20Gauges, contribution to total weight is double-counted when incrementGauge is called before addGauge for a given gauge.",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2022-04-xtribe-findings/issues/22"
+}
