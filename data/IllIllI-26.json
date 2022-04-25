@@ -1,0 +1,9 @@
+{
+  "contest": 111,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "`xERC4626` gives old rewards to new holders too",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2022-04-xtribe-findings/issues/26"
+}
