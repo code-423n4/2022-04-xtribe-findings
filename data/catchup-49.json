@@ -1,0 +1,9 @@
+{
+  "contest": 111,
+  "handle": "catchup",
+  "address": "0xB159bEEb1DeA94440820F9A06A2f613974467e0E",
+  "risk": "2",
+  "title": " Potentially early unlock of reward amount",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2022-04-xtribe-findings/issues/49"
+}
