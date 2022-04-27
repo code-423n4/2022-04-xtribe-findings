@@ -1,0 +1,9 @@
+{
+  "contest": 111,
+  "handle": "CertoraInc",
+  "address": "0x4bCc7c54E4e8E9a563B92272A51bBFb5d233de32",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2022-04-xtribe-findings/issues/70"
+}
