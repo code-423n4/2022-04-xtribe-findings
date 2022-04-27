@@ -1,0 +1,9 @@
+{
+  "contest": 111,
+  "handle": "0x52",
+  "address": "0x522DFfc539c264A8f7E0B91102E899b33f4DAbc3",
+  "risk": "2",
+  "title": "_incrementGaugeWeight allows user to add weight to nonexistent gauges",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2022-04-xtribe-findings/issues/42"
+}
