@@ -1,0 +1,9 @@
+{
+  "contest": 111,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "xTRIBE reward syncing is not permissionless allowing the owner to grieve users",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2022-04-xtribe-findings/issues/43"
+}
