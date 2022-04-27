@@ -1,0 +1,9 @@
+{
+  "contest": 111,
+  "handle": "ypatil12",
+  "address": "0xf8c2Ec0b5AcA5091BB48755260aA307AD14A4c7f",
+  "risk": "2",
+  "title": "NOT IN SCOPE, BUT BRINGING UP FOR VISIBILITY: Issue with setRewardsInfo and properly accruing rewards in FlywheelStaticRewards ",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-04-xtribe-findings/issues/45"
+}
