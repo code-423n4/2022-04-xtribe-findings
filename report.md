@@ -1,3 +1,11 @@
+---
+sponsor: "Tribe"
+slug: "2022-04-xtribe"
+date: "2022-07-14"
+title: "xTRIBE contest"
+findings: "https://github.com/code-423n4/2022-04-xtribe-findings/issues"
+contest: 111
+---
 
 # Overview
 
